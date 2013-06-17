@@ -9,6 +9,6 @@ I uploaded it to CartoDB and then exported it to Geojson
 
 The file was then added to this repository
 
-The repository was displayed showing the point features in GitHub's new native map toold
+The repository was displayed showing the point features in GitHub's new native map tool
 
 
